@@ -1,0 +1,28 @@
+.ul-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  width: 40%;
+  justify-content: space-evenly;
+}
+
+.page-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.repository-list {
+  list-style-type: none;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0px;
+}
+.result-container {
+  display: flex;
+  justify-content: center;
+}
